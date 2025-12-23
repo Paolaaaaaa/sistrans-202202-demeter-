@@ -2,6 +2,7 @@
 
 Este proyecto académico, desarrollado para la asignatura de Sistemas Transaccionales 2022-02, tiene como objetivo demostrar la competencia en el diseño de bases de datos relacionales. El desarrollo se enfoca en la correcta aplicación de la normalización y el establecimiento de relaciones sólidas, garantizando una arquitectura escalable capaz de adaptarse a futuras reglas de negocio y cambios en los requerimientos del sistema.
 
+Este repositorio está resubido de este: https://bitbucket.org/sistrans-202202/demeter/src/master/ 
 ## Descripción del Caso
 
 Uno de los grandes actores que mueven la economía y la vida diaria en el momento actual es el concepto de 
