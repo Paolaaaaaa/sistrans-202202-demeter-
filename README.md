@@ -14,6 +14,7 @@ en un solo sitio y momento todo aquello que necesita. ..
 [ST-Pry-DocMarco-It1.pdf](https://github.com/user-attachments/files/24314965/ST-Pry-DocMarco-It1.pdf)
 
 [ST-Pry-DocMarco-It3.pdf](https://github.com/user-attachments/files/24314980/ST-Pry-DocMarco-It3.pdf)
+[Iteración4_D-04_p.campino_i.bermudezl.docx](https://github.com/user-attachments/files/24315538/Iteracion4_D-04_p.campino_i.bermudezl.docx)
 
 
 ## Diseño de Bases de datos
@@ -29,6 +30,7 @@ Diseño de Base de datos V3:
 
 ![diseno_dbV2](https://github.com/user-attachments/assets/479e06f1-fa56-4fa1-b00e-1d0d80495b43)
 
+[Iteración3_D-04_p.campino_i.bermudezl.docx](https://github.com/user-attachments/files/24315537/Iteracion3_D-04_p.campino_i.bermudezl.docx)
 
 
 En base a los nuevos requerimientos funcionales de la aplicación, así como las correcciones propuestas en iteración 1 y 2 se ha podido notar que hay una necesidad de generar un concepto de carrito el cual solo puede ser usado por personas naturales. Este carrito es reservado por un cliente en un momento especifico y solo hasta que el cliente lo devuelva este carrito no podrá ser usado por otro cliente. El objetivo de este nuevo elemento es guardar todo producto que un cliente desee 
@@ -38,7 +40,9 @@ Para finalizar hay que mencionar los cambios en las promociones donde se ha deci
 
 ### Diseño de Base de datos V2:
 
-![diseno_dbV2](https://github.com/user-attachments/assets/479e06f1-fa56-4fa1-b00e-1d0d80495b43)
+![diseno_dbV1_it3](https://github.com/user-attachments/assets/67ffcc24-c011-4b99-89a1-445b10cf39e6)
+
+[Iteración2_D-04_p.campino.docx](https://github.com/user-attachments/files/24315549/Iteracion2_D-04_p.campino.docx)
 
 
 
@@ -49,4 +53,5 @@ Planeaicón modelo Relacional:
 
 
 [ModeloRelacional.xlsx](https://github.com/user-attachments/files/24314957/ModeloRelacional.xlsx)
+[Iteración1_D-04_ca.medinac1_p.campino.docx](https://github.com/user-attachments/files/24315552/Iteracion1_D-04_ca.medinac1_p.campino.docx)
 
