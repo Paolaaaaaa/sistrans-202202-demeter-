@@ -1,0 +1,3 @@
+rootProject.name = 'SuperAndes'
+
+include 'server', 'client'
