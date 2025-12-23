@@ -14,7 +14,6 @@ en un solo sitio y momento todo aquello que necesita. ..
 [ST-Pry-DocMarco-It1.pdf](https://github.com/user-attachments/files/24314965/ST-Pry-DocMarco-It1.pdf)
 
 [ST-Pry-DocMarco-It3.pdf](https://github.com/user-attachments/files/24314980/ST-Pry-DocMarco-It3.pdf)
-[Iteración4_D-04_p.campino_i.bermudezl.docx](https://github.com/user-attachments/files/24315538/Iteracion4_D-04_p.campino_i.bermudezl.docx)
 
 
 ## Diseño de Bases de datos
@@ -24,6 +23,7 @@ en un solo sitio y momento todo aquello que necesita. ..
 A continuación, se presenta el nuevo modelo UML, para este nuevo modelo se ha considerado las correcciones anteriores con respecto al manejo de los carritos por lo que la relación con respecto a los clientes ha cambiado. Así mismo un producto que está dentro de un carrito guarda información acerca del estante de donde este ha salido: 
 Diseño de Base de datos V3:
 ![diseno_dbV1_it4](https://github.com/user-attachments/assets/36282f76-765f-4c51-a129-6cb16a78d88e)
+[Iteración4_D-04_p.campino_i.bermudezl.docx](https://github.com/user-attachments/files/24315766/Iteracion4_D-04_p.campino_i.bermudezl.docx)
 
 
 ### Diseño de Base de datos V3:
